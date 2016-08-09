@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TapTest</string>
+
+    <string name="hello_world">Tap To Begin</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainbtn">Tap To Begin</string>
+    <string name="ClickBtn">Click to Begin</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="SettingsWelcome">Settings</string>
+    <string name="title_activity_highscore">highscore</string>
+</resources>
